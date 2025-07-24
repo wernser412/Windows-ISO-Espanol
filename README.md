@@ -1,11 +1,11 @@
-# 🆕🆕 **Nuevo: Windows 11 Build 22631.5624 (x64) (7.76 GB)** 🆕🆕
+# 🆕🆕 **Nuevo: Windows 11 Build 22631.5699 (x64) (7.66 GB)** 🆕🆕
 
 ![Windows 11](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/960px-Windows_11_logo.svg.png)
 
 ### Detalles de la versión:
-- **Build**: 22631.5624
+- **Build**: 22631.5699
 - **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 09 de julio de 2025
+- **Actualizaciones integradas** hasta el 23 de julio de 2025
 - **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
 
 ### Instrucciones para crear un USB de arranque:
