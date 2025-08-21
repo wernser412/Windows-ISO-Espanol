@@ -20,9 +20,9 @@ Colección de imágenes actualizadas y optimizadas de Windows en español (Es-Es
 
 | Sistema Operativo       | Build / Update                            | Características destacadas                                                                 | Tamaño   |
 |--------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------|----------|
-| **Windows 8.1 Update**   | Update **9600.22577** (x64)                 | - Actualizaciones hasta **13/05/2025**<br>- .NET 4.8 integrado<br>- .NET 3.5 incluido         | **6.1 GB** |
-| **Windows Vista SP2**    | Update **6003.23217** (x64)                 | - Actualizaciones hasta **08/04/2025**                                                      | **5.7 GB** |
-| **Windows XP SP3**       | Update **2600.7682** (x86)                  | - Actualizaciones hasta **09/04/2019**<br>- .NET 1.1–4.0 integrado<br>- Visual C++ 2005-2019<br>- DirectX 9c (2010)<br>- IE8 y WMP11 integrados<br>- Adobe Flash Player<br>- Controladores AHCI/SATA<br>- Certificados raíz (08/2022)<br>- Fondos HD y temas oficiales<br>- Parche kernel >4 GB RAM (hasta 128 GB) | **1.34 GB** |
+| **AIO Windows 8.1 Update**   | Update **9600.22577** (x64)                 | - Actualizaciones hasta **13/05/2025**<br>- .NET 4.8 integrado<br>- .NET 3.5 incluido         | **6.1 GB** |
+| **AIO Windows Vista SP2**    | Update **6003.23217** (x64)                 | - Actualizaciones hasta **08/04/2025**                                                      | **5.7 GB** |
+| **AIO Windows XP SP3**       | Update **2600.7682** (x86)                  | - Actualizaciones hasta **09/04/2019**<br>- .NET 1.1–4.0 integrado<br>- Visual C++ 2005-2019<br>- DirectX 9c (2010)<br>- IE8 y WMP11 integrados<br>- Adobe Flash Player<br>- Controladores AHCI/SATA<br>- Certificados raíz (08/2022)<br>- Fondos HD y temas oficiales<br>- Parche kernel >4 GB RAM (hasta 128 GB) | **1.34 GB** |
 
 ---
 
