@@ -1,4 +1,4 @@
-# 🪟 Compilación AIO de Windows (21/08/2025)
+# 🪟 Compilación de Windows (21/08/2025)
 
 Colección de imágenes actualizadas y optimizadas de Windows en español (Es-Es).  
 **Todos los enlaces de descarga se publican en nuestro canal oficial de Telegram:**  
