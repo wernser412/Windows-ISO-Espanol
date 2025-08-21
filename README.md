@@ -1,93 +1,31 @@
-# 🆕🆕 **Nuevo: Windows 11 Build 22631.5699 (x64) (7.66 GB)** 🆕🆕
+# 🪟 Compilación AIO de Windows (21/08/2025)
 
-![Windows 11](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Windows_11_logo.svg/960px-Windows_11_logo.svg.png)
-
-### Detalles de la versión:
-- **Build**: 22631.5699
-- **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 23 de julio de 2025
-- **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
-
-### Instrucciones para crear un USB de arranque:
-- Usar [**Rufus**](https://rufus.ie) para deshabilitar:
-    - **TPM**
-    - **Arranque de seguridad**
-    - **CPU**
-    - **Almacenamiento**
-    - **Memoria RAM**
-
-### Descarga del archivo ISO:
-[Descargar](https://t.me/+fqF2-7edU9w5OWNh)
+Colección de imágenes actualizadas y optimizadas de Windows en español (Es-Es).  
+**Todos los enlaces de descarga se publican en nuestro canal oficial de Telegram:**  
+➡️ **[Isos_Windows_2025_espanol](https://t.me/Isos_Windows_2025_espanol)**
 
 ---
 
-## Versiones Adicionales:
+## 🚀 Versiones más recientes
 
-### 1) AIO Windows 11 Pro 24H2 Update 26100.3775 (x64) (6.6 GB)
-- **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 13 de mayo de 2025
-- **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
-- **BitLocker** automático deshabilitado
-- **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
-- **Modo Auditoría** no habilitado
-
-**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
+| Sistema Operativo               | Build / Update                            | Detalles principales                                                                 | Tamaño   |
+|---------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------|----------|
+| **Windows 11 Pro 24H2** <br> 🆕 **NUEVO** | Update **26100.4946** (x64)                 | - Actualizaciones hasta **21/08/2025**<br>- Dolby integrado<br>- .NET 3.5 incluido<br>- BitLocker deshabilitado<br>- Sin comprobaciones (TPM, Secure Boot, hardware) | **5.46 GB** |
+| **Windows 11 Pro 23H2** <br> 🆕 **NUEVO** | Update **22631.5771** (x64)                 | - Actualizaciones hasta **21/08/2025**<br>- .NET 3.5 incluido<br>- BitLocker deshabilitado<br>- Sin comprobaciones | **7.66 GB** |
+| **Windows 7 Ultimate** <br> 🆕 **NUEVO**  | Update **7601.27872** (x86-x64)             | - Actualizaciones hasta **21/08/2025**                                                | **5.02 GB** |
 
 ---
 
-### 2) AIO Windows 11 Pro 23H2 Update 22631.5335 (x64) (6.9 GB)
-- **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 13 de mayo de 2025
-- **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
-- **BitLocker** automático deshabilitado
-- **Verificación deshabilitada** durante la instalación (TPM, arranque de seguridad, CPU, almacenamiento, y memoria RAM)
-- **Modo Auditoría** no habilitado
+## 🖥 Versiones anteriores
 
-**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
+| Sistema Operativo       | Build / Update                            | Características destacadas                                                                 | Tamaño   |
+|--------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------|----------|
+| **Windows 8.1 Update**   | Update **9600.22577** (x64)                 | - Actualizaciones hasta **13/05/2025**<br>- .NET 4.8 integrado<br>- .NET 3.5 incluido         | **6.1 GB** |
+| **Windows Vista SP2**    | Update **6003.23217** (x64)                 | - Actualizaciones hasta **08/04/2025**                                                      | **5.7 GB** |
+| **Windows XP SP3**       | Update **2600.7682** (x86)                  | - Actualizaciones hasta **09/04/2019**<br>- .NET 1.1–4.0 integrado<br>- Visual C++ 2005-2019<br>- DirectX 9c (2010)<br>- IE8 y WMP11 integrados<br>- Adobe Flash Player<br>- Controladores AHCI/SATA<br>- Certificados raíz (08/2022)<br>- Fondos HD y temas oficiales<br>- Parche kernel >4 GB RAM (hasta 128 GB) | **1.34 GB** |
 
 ---
 
-### 3) AIO Windows 8.1 Update 9600.22577 (x64) (6.1 GB)
-- **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 13 de mayo de 2025;
-- **.NET Framework 4.8** integrado
-- **.NET Framework 3.5** incluido (con soporte para 2.0 y 3.0)
-- **Modo Auditoría** no habilitado
-
-**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
-
----
-
-### 4) AIO Windows 7 Ultimate Update 7601.27729 (x86-x64) (4.64 GB)
-- **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 13 de mayo de 2025
-- **Modo Auditoría** no habilitado
-
-**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
-
----
-
-### 5) AIO Windows XP SP3 Update 2600.7682 (x86) (1.34 GB)
-- **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 9 de abril de 2019
-- **Modo Auditoría** no habilitado
-
-**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
-
----
-
-### 6) AIO Windows Vista SP2 Update 6003.23217 (x64) (5.7 GB)
-- **Idioma**: Español (Es-Es)
-- **Actualizaciones integradas** hasta el 8 de abril de 2025
-- **Modo Auditoría** no habilitado
-
-**[Descargar](https://t.me/+fqF2-7edU9w5OWNh)**
-
----
-
-### 6) Torrent to Google Drive v3 (Fix) 14-01-2024
-**[Acceder al archivo](https://colab.research.google.com/drive/17TY-1J7XhcwWul4nfZ4X5dBnbNXgOjvL?usp=sharing)**
-
----
-
-> **Nota**: Asegúrate de verificar la integridad de los archivos descargados antes de proceder con la instalación. También, ten en cuenta que algunos sistemas pueden requerir configuraciones específicas para completar la instalación con éxito.
+> **Nota:**  
+> Todos los **enlaces de descarga y actualizaciones** se publican exclusivamente en el canal de Telegram:  
+> **[Isos_Windows_2025_espanol](https://t.me/Isos_Windows_2025_espanol)**
