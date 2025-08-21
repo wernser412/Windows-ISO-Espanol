@@ -12,7 +12,7 @@ Colección de imágenes actualizadas y optimizadas de Windows en español (Es-Es
 |---------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------|----------|
 | **Windows 11 Pro 24H2** <br> 🆕 **NUEVO** | Update **26100.4946** (x64)                 | - Actualizaciones hasta **21/08/2025**<br>- Dolby integrado<br>- .NET 3.5 incluido<br>- BitLocker deshabilitado<br>- Sin comprobaciones (TPM, Secure Boot, hardware) | **5.46 GB** |
 | **Windows 11 Pro 23H2** <br> 🆕 **NUEVO** | Update **22631.5771** (x64)                 | - Actualizaciones hasta **21/08/2025**<br>- .NET 3.5 incluido<br>- BitLocker deshabilitado<br>- Sin comprobaciones | **7.66 GB** |
-| **Windows 7 Ultimate** <br> 🆕 **NUEVO**  | Update **7601.27872** (x86-x64)             | - Actualizaciones hasta **21/08/2025**                                                | **5.02 GB** |
+| **Windows 7 Ultimate** <br> 🆕 **NUEVO**  | Update **7601.27872** (x64)             | - Actualizaciones hasta **21/08/2025**                                                | **5.02 GB** |
 
 ---
 
